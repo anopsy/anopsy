@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anopsy
 - 👀 I’m interested in languages, programming and graffiti
-- 🌱 I’m currently learning golang and linux
-- 💞️ I’m looking to collaborate on golang-apps 
+- 🌱 I’m currently learning golang and python
+- 💞️ I’m looking to collaborate on golang-apps and ML
 - 📫 
 
 <!---
