@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anopsy
-- 👀 I’m interested in languages, programming and graffiti
-- 🌱 I’m currently learning golang and python
-- 💞️ I’m looking to collaborate on golang-apps and ML
-- 📫 
+- 👋 Hi, I’m Magdalena aka Anopsy
+- 👀 I’m interested in data, machine learning algorithms and open source data science tools
+- 🌱 https://twitter.com/Anopsy
+- 💞️ https://www.instagram.com/anopsy_amsterdam/ 
+- 📫 https://www.linkedin.com/in/madkowalczuk/ 
 
 <!---
 anopsy/anopsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
