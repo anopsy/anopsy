@@ -6,7 +6,7 @@
 - 💞️ graffiti portraits : https://www.instagram.com/anopsy_amsterdam/ 
 
 ```
-Portfolio Projects [WIP]
+Selected Portfolio Projects [WIP]
 .
 ├── >>>sourcestack [WIP] 
 │   ├── data cleaning
