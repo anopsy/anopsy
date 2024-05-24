@@ -15,7 +15,7 @@ Selected Portfolio Projects [WIP]
 │   ├── modelling
 │   └── python/API/polars/hvplot
 │
-├── >>>hackher[WIP]
+├── >>>hackher [WIP]
 │   ├── data scraping
 │   ├── data cleaning
 │   ├── modeling
@@ -34,7 +34,7 @@ Selected Portfolio Projects [WIP]
 │   ├── data visualization
 │   └── python/pandas/seaborn
 │
-├── >>>hossenfelder[WIP]
+├── >>>hossenfelder [WIP]
 │   ├── data scraping
 │   ├── data cleaning
 │   ├── modeling[WIP]
@@ -47,7 +47,7 @@ Selected Portfolio Projects [WIP]
 │   ├── modeling
 │   └── python/pandas/ensemble/keras
 │
-├── >>>MyFalaClassifier[WIP]
+├── >>>MyFalaClassifier [WIP]
 │   ├── live-stream scraping
 │   ├── image processing
 │   ├── transfer learning
