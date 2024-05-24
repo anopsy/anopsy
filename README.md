@@ -15,46 +15,46 @@ Selected Portfolio Projects [WIP]
 │   ├── modeling
 │   └── python/API/polars/hvplot
 │
-├── >>>hackher [WIP] -
+├── >>>hackher [WIP] - Discerning Autistic Masking symptopms from Despression and Anxiety - NLP supported diagnosis
 │   ├── data scraping
 │   ├── data cleaning
 │   ├── modeling
 │   ├── deploying
 │   └── python/pandas/FastAPI
 │
-├── >>>steelplate_defect
+├── >>>steelplate_defect - Visualization of Kaggle dataset of steel plate defects
 │   ├── data visualization
 │   ├── ensemble
 │   └── python/pandas/seaborn/xgb
 │
-├── >>>autism_rsv
+├── >>>autism_rsv - Search Volumes for Autism vs Autism Spectrum Disorder around the world
 │   ├── data scraping
 │   ├── data cleaning
 │   ├── data wrangling
 │   ├── data visualization
 │   └── python/pandas/seaborn
 │
-├── >>>hossenfelder [WIP]
+├── >>>hossenfelder [WIP] - Data Analysis and Prediction of views on Sabine Hossenfelder YT channel
 │   ├── data scraping
 │   ├── data cleaning
 │   ├── modeling[WIP]
 │   └── python/pandas
 │
-├── >>>equity_healthcare
+├── >>>equity_healthcare - WIDS Datathon Project predicting a timely diagnosis in Breast Cancer Patients
 │   ├── data cleaning
 │   ├── data wrangling
 │   ├── data analysis
 │   ├── modeling
 │   └── python/pandas/ensemble/keras
 │
-├── >>>MyFalaClassifier [WIP]
+├── >>>MyFalaClassifier [WIP] - Detector of surfable waves
 │   ├── live-stream scraping
 │   ├── image processing
 │   ├── transfer learning
 │   ├── deploying
 │   └── python/keras/tensorflow
 │
-├── >>>stream-scraper [WIP]
+├── >>>stream-scraper [WIP] - Live-stream scraper for the detector of surfable waves
 │   ├── data scraping
 │   └── python/selenium/browsermobproxy
 │
