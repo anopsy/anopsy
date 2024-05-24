@@ -8,14 +8,14 @@
 ```
 Selected Portfolio Projects [WIP]
 .
-├── >>>sourcestack [WIP] 
+├── >>>sourcestack [WIP] - Is ChatGPT replacing Juniors and Interns? Data Analysis of job offers dataset
 │   ├── data cleaning
 │   ├── data wrangling
 │   ├── data analysis
-│   ├── modelling
+│   ├── modeling
 │   └── python/API/polars/hvplot
 │
-├── >>>hackher [WIP]
+├── >>>hackher [WIP] -
 │   ├── data scraping
 │   ├── data cleaning
 │   ├── modeling
