@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Magdalena Kowalczuk aka Anopsy
 - 👀 I’m interested in data, machine learning algorithms and open source data science tools
-- 🌱 my blog : https://medium.com/@anopsy28
-- 🌱 memes : https://twitter.com/Anopsy
-- 📫 ds experiences : https://www.linkedin.com/in/madkowalczuk/
-- 💞️ graffiti portraits : https://www.instagram.com/anopsy_amsterdam/ 
+- 🏄🏾‍♀️ my blog : https://medium.com/@anopsy28
+- 🤖 learning ML experiences : https://www.linkedin.com/in/madkowalczuk/
+- 🎨 graffiti portraits : https://www.instagram.com/anopsy_amsterdam/
+- 🎠 random stuff : https://twitter.com/Anopsy
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">🎨 Selected Portfolio Projects [WIP]
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span>contributing to OSS at:
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/koaning/scikit-lego">🧱scikit-lego</a></span>
