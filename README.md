@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Magdalena Kowalczuk aka Anopsy
 - 👀 I’m interested in data, machine learning algorithms and open source data science tools
+- Having fun with data and ml algorithms, actively seeking opportunities for hands-on experience. Eager learner, fervent Kaggler, open to voluntary side gigs, traineeship programs and collaborations. Currently engaged in Women in Data Scholarschip, exploring Open Source land and building portfolio. Let's connect and get more (out of) data together! #DataScience #MachineLearning #OpenSource
 - 🏄🏾‍♀️ my blog : https://medium.com/@anopsy28
 - 🤖 learning ML experiences : https://www.linkedin.com/in/madkowalczuk/
 - 🎨 graffiti portraits : https://www.instagram.com/anopsy_amsterdam/
