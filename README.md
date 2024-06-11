@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **madkowalczuk@gmail.com**
 
-- ⚡ Fun fact **I paint graffiti portraits**
+- ⚡ Fun fact **🎨 I paint graffiti portraits**
 
 
 <h3 align="left">Languages and Tools:</h3>
