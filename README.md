@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Did ChatGPT replace Junior's?](https://github.com/anopsy/sourcestack)
 
-- 🌱 I’m currently learning **Docker, streamlit, Polars**
+- 🌱 I’m currently learning **🐻‍❄️ Polars**
 
 - 👨‍💻 All of my projects are available at [https://github.com/anopsy](https://github.com/anopsy)
 
