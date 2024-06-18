@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Did ChatGPT replace Junior's?](https://github.com/anopsy/sourcestack)
+- 🔭 I’m currently working on [Did ChatGPT replace Juniors?](https://github.com/anopsy/sourcestack)
 
 - 🌱 I’m currently learning **🐻‍❄️ Polars**
 
