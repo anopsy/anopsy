@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Magdalena Kowalczuk</h1>
 <h3 align="center">data & ml freak with a soft spot for OSS</h3>
+<h4 align="center">Eager learner, fervent Kaggler, open to voluntary side gigs and collaborations. Currently engaged in Women in Data Scholarschip, exploring Open Source Land and building portfolio.</h4>
 
 
 
