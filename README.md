@@ -37,7 +37,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anopsy&label=Profile%20views&color=0e75b6&style=flat" alt="anopsy" /> </p>
 
-#<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anopsy" alt="anopsy" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anopsy" alt="anopsy" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/anopsy" target="blank"><img src="https://img.shields.io/twitter/follow/anopsy?logo=twitter&style=for-the-badge" alt="anopsy" /></a> </p>
 
