@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Did ChatGPT replace Juniors?](https://github.com/anopsy/sourcestack)
+- 🔭 I’m currently working on [Did ChatGPT replace Juniors?](https://github.com/anopsy/Juniors_vs_ChatGPT)
 
 - 🌱 I’m currently learning **🐻‍❄️ Polars**
 
@@ -37,7 +37,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anopsy&label=Profile%20views&color=0e75b6&style=flat" alt="anopsy" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anopsy" alt="anopsy" /></a> </p>
+#<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anopsy" alt="anopsy" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/anopsy" target="blank"><img src="https://img.shields.io/twitter/follow/anopsy?logo=twitter&style=for-the-badge" alt="anopsy" /></a> </p>
 
@@ -45,7 +45,7 @@
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span>contributing to OSS at:
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/koaning/scikit-lego">🧱scikit-lego</a></span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/narwhals-dev/narwhals">🐳🦄narwhals </a></span>
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/sourcestack">sourcestack - 🦺WIP </a></span>- Is ChatGPT replacing Juniors and Interns? 
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/Juniors_vs_ChatGPT">sourcestack - 🦺WIP </a></span>- Is ChatGPT replacing Juniors and Interns? 
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data cleaning</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data wrangling</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data analysis</span>
