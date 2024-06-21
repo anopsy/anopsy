@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anopsy](https://github.com/anopsy)
 
-- 📝 I regularly write articles on [https://medium.com/@anopsy28](https://medium.com/@anopsy28)
+- 📝 I write about my learning journey on [https://medium.com/@anopsy28](https://medium.com/@anopsy28)
 
 - 📫 How to reach me **madkowalczuk@gmail.com**
 
