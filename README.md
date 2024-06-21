@@ -45,7 +45,15 @@
 <pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">🎨 Selected Portfolio Projects [WIP]
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span>contributing to OSS at:
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/koaning/scikit-lego">🧱scikit-lego</a></span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">contributed to docs</span>  
+<span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┗━━ </span><span style="color: #808080; text-decoration-color: #808080">made ColumnSelector dataframe agnostic using Narwhals</span> 
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/narwhals-dev/narwhals">🐳🦄narwhals </a></span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">contributed to docs</span>  
+<span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┗━━ </span><span style="color: #808080; text-decoration-color: #808080">added ddof argument to std method</span> 
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://github.com/koaning/embetter">💡embetter</a></span>
+<span style="color: #808080; text-decoration-color: #808080">┃       ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">deprecated a method</span>  
+<span style="color: #808080; text-decoration-color: #808080">┃       ┗━━ </span><span style="color: #808080; text-decoration-color: #808080">added pre-commit hooks</span>  
+<span style="color: #808080; text-decoration-color: #808080">┃ 
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/Juniors_vs_ChatGPT">Juniors_vs_ChatGPT - 🦺WIP </a></span>- Did ChatGPT replaced Juniors and Interns? 
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data cleaning</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data wrangling</span>
