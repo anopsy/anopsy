@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Did ChatGPT replace Juniors?](https://github.com/anopsy/Juniors_vs_ChatGPT)
 
-Motivated by personal curiosity and inspired by a 2023 Hackathon challenge (which I won in the “Most Polished” category), I embarked on a data analysis and visualization project. As someone transitioning into the data field, I sought to investigate the validity of rumors surrounding ChatGPT and other large language models (LLMs) replacing entry-level specialists in various technological domains.
+Motivated by personal curiosity and inspired by a 2023 Hackathon challenge (which I won in the “Most Polished” category). As someone transitioning into the data field, I sought to investigate the validity of rumors surrounding ChatGPT and other large language models (LLMs) replacing entry-level specialists in various technological domains.
 
 - 🌱 I’m currently learning **🐻‍❄️ Polars**
 
