@@ -56,7 +56,8 @@ Motivated by personal curiosity and inspired by a 2023 Hackathon challenge (whic
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">modeling</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="color: #000080; text-decoration-color: #000080">python🐍/pandas🐼/ensemble🌳/keras🧠</span>
 <span style="color: #808080; text-decoration-color: #808080">┃  
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/autism_rsv">autism_rsv </a></span> - Search Volumes for Autism vs Autism Spectrum Disorder around the world
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/autism_rsv">Relative Search Volumes Analysis </a></span> 
+  - Search Volumes for Autism vs Autism Spectrum Disorder around the world
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data scraping</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data cleaning</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">modeling WIP</span>
