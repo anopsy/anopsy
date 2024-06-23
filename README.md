@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Magdalena Kowalczuk</h1>
 <h3 align="center">data & ml fan with a soft spot for OSS</h3>
-<h4 align="center">Driven by curiosity, eager self-learner, fervent Kaggler, Datathons enjoyer, PyData volunteer, currently engaged in Women in Data Scholarship, exploring and contributing to Open Source Land and building my Machine Learning portfolio. In my free time I paint graffiti portraits</h4>
+<h4 align="center">Driven by curiosity, eager self-learner, Kaggle Notebook Expert, Datathons enjoyer, PyData volunteer, currently engaged in Women in Data Scholarship, exploring and contributing to Open Source Land and building my Machine Learning portfolio. In my free time I paint graffiti portraits</h4>
 
 
 
