@@ -32,7 +32,8 @@ Motivated by personal curiosity and inspired by a 2023 Hackathon challenge (whic
 <span style="color: #808080; text-decoration-color: #808080">┃       ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">deprecated a method</span>  
 <span style="color: #808080; text-decoration-color: #808080">┃       ┗━━ </span><span style="color: #808080; text-decoration-color: #808080">added pre-commit hooks</span>  
 <span style="color: #808080; text-decoration-color: #808080">┃ 
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/Juniors_vs_ChatGPT">Juniors_vs_ChatGPT - 🦺WIP </a></span>- Did ChatGPT replaced Juniors and Interns? 
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/Juniors_vs_ChatGPT">Juniors_vs_ChatGPT - 🦺WIP </a></span>
+  - Did ChatGPT replaced Juniors and Interns? 
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data cleaning</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data wrangling</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data analysis</span>
@@ -47,7 +48,8 @@ Motivated by personal curiosity and inspired by a 2023 Hackathon challenge (whic
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">deploying</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="color: #000080; text-decoration-color: #000080">python🐍/pandas🐼/FastAPI</span>
 <span style="color: #808080; text-decoration-color: #808080">┃  
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/equity_healthcare">equity_healthcare </a></span> - WIDS Datathon Project predicting a timely diagnosis
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/equity_healthcare">Equity in Healthcare: Women in Data Science Datathon 2024</a></span> 
+  - WIDS Datathon Project predicting a timely diagnosis of Metastatic Cancer
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data cleaning</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data wrangling</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data analysis</span>
