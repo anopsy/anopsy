@@ -33,7 +33,7 @@ Motivated by personal curiosity and inspired by a 2023 Hackathon challenge (whic
 <span style="color: #808080; text-decoration-color: #808080">┃       ┗━━ </span><span style="color: #808080; text-decoration-color: #808080">added pre-commit hooks</span>  
 <span style="color: #808080; text-decoration-color: #808080">┃ 
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/Juniors_vs_ChatGPT">Juniors_vs_ChatGPT - 🦺WIP </a></span>
-  - Did ChatGPT replaced Juniors and Interns? 
+<span style="color: #808080; text-decoration-color: #808080">┃   - Did ChatGPT replaced Juniors and Interns? 
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data cleaning</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data wrangling</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data analysis</span>
@@ -41,7 +41,7 @@ Motivated by personal curiosity and inspired by a 2023 Hackathon challenge (whic
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="color: #000080; text-decoration-color: #000080">python🐍/API/polars🐻‍❄️/hvplot📊</span>
 <span style="color: #808080; text-decoration-color: #808080">┃  
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/hackher">MaskMap: Decoding the Hidden Spectrum </a></span> 
-  - Prototype of a diagnosis support tool using the power of NLP to identify symptoms of Autistic Masking
+<span style="color: #808080; text-decoration-color: #808080">┃   - Prototype of a diagnosis support tool using the power of NLP to identify symptoms of Autistic Masking
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data scraping</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data cleaning</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">modeling</span>
@@ -49,7 +49,7 @@ Motivated by personal curiosity and inspired by a 2023 Hackathon challenge (whic
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="color: #000080; text-decoration-color: #000080">python🐍/pandas🐼/FastAPI</span>
 <span style="color: #808080; text-decoration-color: #808080">┃  
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/equity_healthcare">Equity in Healthcare: Women in Data Science Datathon 2024</a></span> 
-  - WIDS Datathon Project predicting a timely diagnosis of Metastatic Cancer
+<span style="color: #808080; text-decoration-color: #808080">┃   - WIDS Datathon Project predicting a timely diagnosis of Metastatic Cancer
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data cleaning</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data wrangling</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data analysis</span>
@@ -57,25 +57,27 @@ Motivated by personal curiosity and inspired by a 2023 Hackathon challenge (whic
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="color: #000080; text-decoration-color: #000080">python🐍/pandas🐼/ensemble🌳/keras🧠</span>
 <span style="color: #808080; text-decoration-color: #808080">┃  
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/autism_rsv">Relative Search Volumes Analysis </a></span> 
-  - Search Volumes for Autism vs Autism Spectrum Disorder around the world
+<span style="color: #808080; text-decoration-color: #808080">┃   - Search Volumes for Autism vs Autism Spectrum Disorder around the world
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data scraping</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data cleaning</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">modeling WIP</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="color: #000080; text-decoration-color: #000080">python🐍/pandas🐼</span>
 <span style="color: #808080; text-decoration-color: #808080">┃  
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/steelplate_defect">Steelplate Defect Visual EDA </a></span> 
-  - Colorful joyplots for Visual EDA
+<span style="color: #808080; text-decoration-color: #808080">┃   - Colorful joyplots for Visual EDA
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data visualization</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">ensemble</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="color: #000080; text-decoration-color: #000080">python🐍/pandas🐼/xgb🌳/seaborn🎨</span>
 <span style="color: #808080; text-decoration-color: #808080">┃  
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/hossenfelder">hossenfelder - 🦺WIP </a></span> - Data Analysis and Prediction of views on Sabine Hossenfelder YT channel
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/hossenfelder">hossenfelder - 🦺WIP </a></span> 
+<span style="color: #808080; text-decoration-color: #808080">┃ - Data Analysis and Prediction of views on Sabine Hossenfelder YT channel
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data scraping</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data cleaning</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">modeling WIP</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="color: #000080; text-decoration-color: #000080">python🐍/pandas🐼</span>
 <span style="color: #808080; text-decoration-color: #808080">┃  
-<span style="color: #808080; text-decoration-color: #808080">┗━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/MyFalaClassifier">MyFalaClassifier - 🦺WIP </a></span> - Detector of surfable waves
+<span style="color: #808080; text-decoration-color: #808080">┗━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/MyFalaClassifier">MyFalaClassifier - 🦺WIP </a></span> 
+- Detector of surfable waves
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">live-stream scraping</span>
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">image processing</span>
 <span style="color: #808080; text-decoration-color: #808080">    ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">transfer learning</span>
