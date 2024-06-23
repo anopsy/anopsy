@@ -39,7 +39,8 @@ Motivated by personal curiosity and inspired by a 2023 Hackathon challenge (whic
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">modeling</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="color: #000080; text-decoration-color: #000080">python🐍/API/polars🐻‍❄️/hvplot📊</span>
 <span style="color: #808080; text-decoration-color: #808080">┃  
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/hackher">hackher - 🦺WIP </a></span> - Discerning Autistic Masking from Despression and Anxiety
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/hackher">MaskMap: Decoding the Hidden Spectrum </a></span> 
+  - Prototype of a diagnosis support tool using the power of NLP to identify symptoms of Autistic Masking
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data scraping</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data cleaning</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">modeling</span>
