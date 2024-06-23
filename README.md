@@ -63,7 +63,8 @@ Motivated by personal curiosity and inspired by a 2023 Hackathon challenge (whic
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">modeling WIP</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="color: #000080; text-decoration-color: #000080">python🐍/pandas🐼</span>
 <span style="color: #808080; text-decoration-color: #808080">┃  
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/steelplate_defect">steelplate_defect </a></span> - Visualization of Kaggle dataset of steel plate defects
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/steelplate_defect">Steelplate Defect Visual EDA </a></span> 
+  - Colorful joyplots for Visual EDA
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data visualization</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">ensemble</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="color: #000080; text-decoration-color: #000080">python🐍/pandas🐼/xgb🌳/seaborn🎨</span>
