@@ -8,7 +8,7 @@
 
 Motivated by personal curiosity and inspired by a 2023 Hackathon challenge (which I won in the “Most Polished” category). As someone transitioning into the data field, I sought to investigate the validity of rumors surrounding ChatGPT and other large language models (LLMs) replacing entry-level specialists in various technological domains.
 
-- 🌱 I’m currently learning **🐻‍❄️ Polars** and that's Ritchie Vink- creator of Polars with my graffiti:
+- 🌱 I’m currently learning **🐻‍❄️ Polars** and that's Ritchie Vink - creator of Polars with my graffiti:
   
   <img src="https://github.com/anopsy/anopsy/assets/74981211/216e71a3-2a6b-45bb-9b52-d040687b3e5a" alt="Ritchie Vink" width="200" height="150"/>
 
