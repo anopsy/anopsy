@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **madkowalczuk@gmail.com**
 
-- ⚡ Fun fact **🎨 I paint graffiti portraits**
+- ⚡ Fun fact [**🎨 I paint graffiti portraits**](https://www.instagram.com/anopsy_amsterdam/)
 
 
 <h3 align="left">Languages and Tools:</h3>
