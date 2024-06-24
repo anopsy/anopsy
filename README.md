@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Did ChatGPT replace Juniors?](https://github.com/anopsy/Juniors_vs_ChatGPT)
 
-Motivated by personal curiosity and inspired by a 2023 Hackathon challenge (which I won in the “Most Polished” category). As someone transitioning into the data field, I sought to investigate the validity of rumors surrounding ChatGPT and other large language models (LLMs) replacing entry-level specialists in various technological domains.
+Inspired by personal curiosity and a 2023 Hackathon challenge (won in the ‘Most Polished’ category). This project investigates the impact of large language models like ChatGPT on entry-level roles in tech. Demonstrated skills include data cleaning, data wrangling, data analysis, and modeling, using tools such as Python, APIs, Polars, and Hvplot.
 
 - 🌱 I’m currently learning **🐻‍❄️ Polars** and that's Ritchie Vink - creator of Polars with my graffiti:
   
