@@ -4,7 +4,17 @@
 
 
 
-- 🔭 I’m currently working on [Did ChatGPT replace Juniors?](https://github.com/anopsy/Juniors_vs_ChatGPT)
+- 🔭 I’m currently working on:
+📊 [PyData Amsterdam 2024 Talk](https://amsterdam2024.pydata.org/cfp/talk/KF8AU7/)
+First experience of stepping into the rabbit hole of contributing to open-source software, highlighting key learnings and practical steps for beginners. It covers overcoming self-doubt, learning through collaboration, and the unexpected joys of community engagement. What you can learn from contributing to Open Source and what you probably will not as an aspiring Data Scientist.
+
+🏃[PyData Amsterdam 2024 Open Source Sprint: Narwhals](https://amsterdam2024.pydata.org/cfp/talk/SLRFEJ/)
+Narwhals is an extremely lightweight and extensible compatibility layer between dataframe libraries, and it needs your help! An open source sprint is the perfect opportunity to make your first contribution to open source. The core maintainers of the Narwhals package will prepare a list of easy and accessible first issues to get started with, and will be present in this session to guide you to make your first commit to the package. This is the perfect opportunity to give back to the Python ecosystem, while having some fun.
+
+🐳[Contributing to PyArrow backend in Narwhals](https://narwhals-dev.github.io/narwhals/)
+If you'd like to help us extend and improve Narwhals, feel free to check the [Contributing Guide](https://github.com/narwhals-dev/narwhals/blob/main/CONTRIBUTING.md) and join us on Discord.
+
+🤖 [Did ChatGPT replace Juniors?](https://github.com/anopsy/Juniors_vs_ChatGPT)
 
 Inspired by personal curiosity and a 2023 Hackathon challenge (won in the ‘Most Polished’ category). This project investigates the impact of large language models like ChatGPT on entry-level roles in tech. Demonstrated skills include data cleaning, data wrangling, data analysis, and modeling, using tools such as Python, APIs, Polars, and Hvplot.
 
