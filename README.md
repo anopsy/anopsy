@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anopsy](https://github.com/anopsy)
 
-- 📑If you'd like to hire me, check my [CV](https://github.com/anopsy/resume/blob/main/MagdalenaKowalczukCV%20(1).pdf)
+- 📑If you'd like to hire me, check my [CV](https://github.com/anopsy/resume/blob/main/MKowalczuk.pdf)
 
 - 📝 I write about my learning journey on [https://medium.com/@anopsy28](https://medium.com/@anopsy28)
 
