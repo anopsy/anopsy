@@ -42,13 +42,21 @@
 <span style="color: #808080; text-decoration-color: #808080">┃       ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">deprecated a method</span>  
 <span style="color: #808080; text-decoration-color: #808080">┃       ┗━━ </span><span style="color: #808080; text-decoration-color: #808080">added pre-commit hooks</span>  
 <span style="color: #808080; text-decoration-color: #808080">┃ 
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/Juniors_vs_ChatGPT">Juniors_vs_ChatGPT - 🦺WIP </a></span>
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/Juniors_vs_ChatGPT">Juniors_vs_ChatGPT </a></span>
 <span style="color: #808080; text-decoration-color: #808080">┃   - Did ChatGPT replaced Juniors and Interns? 
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data cleaning</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data wrangling</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data analysis</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">modeling</span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="color: #000080; text-decoration-color: #000080">python🐍/API/polars🐻‍❄️/hvplot📊</span>
+<span style="color: #808080; text-decoration-color: #808080">┃ 
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/Compensation-prediction">Compensation Prediction </a></span>
+<span style="color: #808080; text-decoration-color: #808080">┃   - How much do Engineers earn? 
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">data modeling</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">model evaluation</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">containerization using docker</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">building streamlit app</span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="color: #000080; text-decoration-color: #000080">python🐍/scikit-learn/streamlit📈/docker📦</span>
 <span style="color: #808080; text-decoration-color: #808080">┃  
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span><span style="font-weight: bold"><a href="https://github.com/anopsy/hackher">MaskMap: Decoding the Hidden Spectrum </a></span> 
 <span style="color: #808080; text-decoration-color: #808080">┃   - Prototype of a diagnosis support tool using the power of NLP to identify symptoms of Autistic Masking
