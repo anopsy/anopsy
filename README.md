@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Magdalena Kowalczuk</h1>
 <h3 align="center">data & ml fan with a soft spot for OSS</h3>
-<h4 align="center">Driven by curiosity, eager self-learner, OpenSource contributor, PyData volunteer and speaker, currently searching for a Data Scientist role where I could fully employ my analytical, hacking and communication skills </h4>
+<h4 align="center">Driven by curiosity, eager self-learner, OpenSource contributor, PyData volunteer and speaker, currently searching for a Data Scientist role where I could fully employ my analytical, programming and communication skills </h4>
 <h4 align="center">Passionate about developing and deploying machine learning models. Proficient in using Python for data analysis and machine learning tasks. Skilled in data visualization tools to communicate insights effectively. Familiar with  with cloud platforms such as Azure and Google Cloud. I want to drive decision-making and solve complex problems using data. </h4>
 
 
