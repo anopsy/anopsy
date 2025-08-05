@@ -66,7 +66,7 @@ and that's Ritchie Vink - creator of Polars with my graffiti:
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://pretalx.com/pyladiescon-2024/speaker/XXBKRT/">🤖PyLadiesCon 2024 Talk</a></span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://amsterdam2024.pydata.org/cfp/talk/SLRFEJ/">🏃PyData Open Source Sprint </a></span>
 <span style="color: #808080; text-decoration-color: #808080">┃ 
-<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>contributing to OSS at:
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>Contributed to OSS at:
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/koaning/scikit-lego">🧱scikit-lego</a></span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">contributed to docs</span>  
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┗━━ </span><span style="color: #808080; text-decoration-color: #808080">made ColumnSelector dataframe agnostic using Narwhals</span> 
