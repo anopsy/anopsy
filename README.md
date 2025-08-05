@@ -1,39 +1,71 @@
 <h1 align="center">Hi 👋, I'm Magdalena Kowalczuk</h1>
 <h3 align="center">data & ml fan with a soft spot for OSS</h3>
-<h4 align="center">Driven by curiosity, eager self-learner, OpenSource contributor, PyData volunteer and speaker, currently searching for a Data Scientist role where I could fully employ my analytical, programming and communication skills </h4>
-<h4 align="center">Passionate about developing and deploying machine learning models. Proficient in using Python for data analysis and machine learning tasks. Skilled in data visualization tools to communicate insights effectively. Familiar with  with cloud platforms such as Azure and Google Cloud. I want to drive decision-making and solve problems using data. </h4>
+<h4 align="center">Driven by curiosity and a passion for solving real-world problems with data. Comfortable across the full data lifecycle — from ingestion and preprocessing to modeling, deployment, and insight delivery. Proficient in Python for data analysis and machine learning, with experience in cloud platforms (AWS, Azure, GCP) and data visualization for clear communication.  </h4>
+<h4 align="center">Currently seeking a Data Scientist or Data Engineering role where I can apply my analytical, programming, and communication skills. </h4>
 
 
+---
 
-- I’m currently working on:\
-📊 [PyData Amsterdam 2024 Talk](https://amsterdam2024.pydata.org/cfp/talk/KF8AU7/)
-   I will be talking about my experience of stepping into the rabbit hole of contributing to open-source software, highlighting key learnings and practical steps for beginners. It covers overcoming self-doubt, learning through collaboration, and the unexpected joys of community engagement. What you can learn from contributing to Open Source and what you probably will not as an aspiring Data Scientist.
+## 🚧 I’m currently working on
+
+### 🛰️🤖 **Flow-Based Bot Detection Pipeline**
+
+Building a scalable pipeline for processing and analyzing network flow data, with a focus on **anomaly detection** and bot activity.
+
+---
+
+#### 🔧 Key Components
+
+- ⚙️ Ingest and sample large network datasets with **Polars**
+- 🧱 Transform raw flow logs into feature-rich tabular format
+- 🛠️ Develop modular **ETL pipeline** for local or streamed flow data
+- 🧠 Integrate **anomaly detection** and classification models  
+  (e.g. Isolation Forest, LOF, Random Forest, LGBM)
+- 🧪 Evaluate under real-world **class imbalance**
+
+---
+
+#### 🧠 Skills Showcased
+
+- 📊 Working with large tabular datasets  
+- 🧮 Handling class imbalance in cybersecurity contexts  
+- 🔍 Anomaly detection techniques  
+- 📈 Practical ML evaluation  
+- 🧰 Prototyping realistic data pipelines
+
+---
+
   
-  🏃[PyData Amsterdam 2024 Open Source Sprint: Narwhals](https://amsterdam2024.pydata.org/cfp/talk/SLRFEJ/)
-  Narwhals is an extremely lightweight and extensible compatibility layer between dataframe libraries, and it needs your help! An open source sprint is the perfect opportunity to make your first contribution to open source. The core maintainers of the Narwhals package will prepare a list of easy and accessible first issues to get started with, and will be present in this session to guide you to make your first commit to the package. This is the perfect opportunity to give back to the Python ecosystem, while having some fun.
-  
-  🐳[Contributing to Dask/PyArrow backend in Narwhals](https://narwhals-dev.github.io/narwhals/)
-  At Narwhals, we’re committed to helping you build dataframe-agnostic tools. Whether your users prefer pandas, polars dataframes, or even pyarrow tables, Narwhals has you covered. There’s still plenty of work to do, so if you’d like to contribute and enhance Narwhals, feel free to check out our [Contributing Guide](https://github.com/narwhals-dev/narwhals/blob/main/CONTRIBUTING.md) and join us on Discord.
-  
-  🤖 [Did ChatGPT replace Juniors?](https://github.com/anopsy/Juniors_vs_ChatGPT)
-  Inspired by personal curiosity and a 2023 Hackathon challenge (won in the ‘Most Polished’ category). This project investigates the impact of large language models like ChatGPT on entry-level roles in tech. Demonstrated skills include data cleaning, data wrangling, data analysis, and modeling, using tools such as Python, APIs, Polars, and Hvplot.
-
-- 🌱 I’m currently learning **🐻‍❄️ Polars** and that's Ritchie Vink - creator of Polars with my graffiti:
+## 🌱 I’m currently learning **🐻‍❄️ Polars** 
+and that's Ritchie Vink - creator of Polars with my graffiti:
   
   <img src="https://github.com/anopsy/anopsy/assets/74981211/216e71a3-2a6b-45bb-9b52-d040687b3e5a" alt="Ritchie Vink" width="200" height="150"/>
 
+---
 
 - 👨‍💻 All of my projects are available at [https://github.com/anopsy](https://github.com/anopsy)
 
 - 📑If you'd like to hire me, check my [CV](https://github.com/anopsy/resume/blob/main/MagdalenaKowalczukResume.pdf)
 
-- 📝 I write about my learning journey on [https://medium.com/@anopsy28](https://medium.com/@anopsy28)
-
 - 📫 How to reach me **madkowalczuk@gmail.com**
 
 - ⚡ Fun fact [**🎨 I paint graffiti portraits**](https://www.instagram.com/anopsy_amsterdam/)
 
-<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">🎨 Selected Portfolio Projects
+---
+
+<pre style="font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace">🎨 Selected Projects
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>Data Science Content Intern at NannyML:
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://www.nannyml.com/blog/authors/magdalena-kowalczuk">📈Post-Deployment Data Science blogs</a></span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┣━━ </span><span style="font-weight: bold"><a href="https://www.nannyml.com/blog/guide-data-quality-covariate-shift">📉Data Quality and Covariate Shift</a></span> 
+<span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┗━━ </span><span style="font-weight: bold"><a href="https://www.nannyml.com/blog/ml-models-arent-forever">🌀Models aren't Forever</a></span> 
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">contributed to the Research team on Anomaly Detection by evaluating multiple detection algorithms and generating synthetic datasets</span>  
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="color: #808080; text-decoration-color: #808080">contributed to docs</span>  
+<span style="color: #808080; text-decoration-color: #808080">┃ 
+<span style="color: #808080; text-decoration-color: #808080">┣━━ </span>PyData and PyLadies Con speaker and volunteer at:
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://www.youtube.com/watch?v=IY9Dl2gD_Rw">💽PyData Amsterdam 2024 Talk-Alice in Open Source Land</a></span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://pretalx.com/pyladiescon-2024/speaker/XXBKRT/">🤖PyLadiesCon 2024 Talk</a></span>
+<span style="color: #808080; text-decoration-color: #808080">┃   ┗━━ </span><span style="font-weight: bold"><a href="https://amsterdam2024.pydata.org/cfp/talk/SLRFEJ/">🏃PyData Open Source Sprint </a></span>
+<span style="color: #808080; text-decoration-color: #808080">┃ 
 <span style="color: #808080; text-decoration-color: #808080">┣━━ </span>contributing to OSS at:
 <span style="color: #808080; text-decoration-color: #808080">┃   ┣━━ </span><span style="font-weight: bold"><a href="https://github.com/koaning/scikit-lego">🧱scikit-lego</a></span>
 <span style="color: #808080; text-decoration-color: #808080">┃   ┃   ┣━━ </span><span style="color: #808080; text-decoration-color: #808080">contributed to docs</span>  
