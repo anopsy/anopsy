@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Magdalena Kowalczuk</h1>
 ---
+Interested in understanding and improving digital systems. Open source minded.
 
 ## 🚧 I’m currently working on
 
