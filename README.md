@@ -12,38 +12,27 @@ Building a scalable pipeline for processing and analyzing network flow data, wit
 
 #### 🔧 Key Components
 
-- ⚙️ Ingest and sample large network datasets with **Polars**
-- 🧱 Transform raw flow logs into feature-rich tabular format
-- 🛠️ Develop modular **ETL pipeline** for local or streamed flow data
-- 🧠 Integrate **anomaly detection** and classification models  
+- Ingest and sample large network datasets with **Polars**
+- Transform raw flow logs into feature-rich tabular format
+- Develop modular **ETL pipeline** for local or streamed flow data
+- Integrate **anomaly detection** and classification models  
   (e.g. Isolation Forest, LOF, Random Forest, LGBM)
-- 🧪 Evaluate under real-world **class imbalance**
+- Evaluate under real-world **class imbalance**
 
 ---
 
-#### 🧠 Skills Showcased
-
-- 📊 Working with large tabular datasets  
-- 🧮 Handling class imbalance in cybersecurity contexts  
-- 🔍 Anomaly detection techniques  
-- 📈 Practical ML evaluation  
-- 🧰 Prototyping realistic data pipelines
-
----
-
-  
-## 🌱 I’m currently learning **🐻‍❄️ Polars** 
+## I’m currently learning ** Polars** 
 and that's Ritchie Vink - creator of Polars with my graffiti:
   
   <img src="https://github.com/anopsy/anopsy/assets/74981211/216e71a3-2a6b-45bb-9b52-d040687b3e5a" alt="Ritchie Vink" width="200" height="150"/>
 
 ---
 
-- 👨‍💻 All of my projects are available at [https://github.com/anopsy](https://github.com/anopsy)
+-  All of my projects are available at [https://github.com/anopsy](https://github.com/anopsy)
 
-- 📫 How to reach me **madkowalczuk@gmail.com**
+-  How to reach me **madkowalczuk@gmail.com**
 
-- ⚡ Fun fact [**🎨 I paint graffiti portraits**](https://www.instagram.com/anopsy_amsterdam/)
+-  Fun fact [**🎨 I paint graffiti portraits**](https://www.instagram.com/anopsy_amsterdam/)
 
 ---
 
