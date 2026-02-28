@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Magdalena Kowalczuk</h1>
-<h3 align="center">data & ml fan with a soft spot for OSS</h3>
-<h4 align="center">Driven by curiosity and a passion for solving real-world problems with data. Comfortable across the full data lifecycle — from ingestion and preprocessing to modeling, deployment, and insight delivery. Proficient in Python for data analysis and machine learning, with experience in cloud platforms (AWS, Azure, GCP) and data visualization for clear communication.  </h4>
-<h4 align="center">Currently seeking a Data Scientist or Data Engineering role where I can apply my analytical, programming, and communication skills. </h4>
-
-
 ---
 
 ## 🚧 I’m currently working on
