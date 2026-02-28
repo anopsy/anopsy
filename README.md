@@ -40,8 +40,6 @@ and that's Ritchie Vink - creator of Polars with my graffiti:
 
 - 👨‍💻 All of my projects are available at [https://github.com/anopsy](https://github.com/anopsy)
 
-- 📑If you'd like to hire me, check my [CV](https://github.com/anopsy/resume/blob/main/MagdalenaKowalczukResume.pdf)
-
 - 📫 How to reach me **madkowalczuk@gmail.com**
 
 - ⚡ Fun fact [**🎨 I paint graffiti portraits**](https://www.instagram.com/anopsy_amsterdam/)
